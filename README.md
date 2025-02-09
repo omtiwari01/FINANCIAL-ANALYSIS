@@ -53,8 +53,10 @@ Analyze key financial ratios to determine profitability, liquidity, and leverage
 Explore the impact of inflation on company performance.
 
       Visual Analysis Screenshots--
-      ![Screenshot 2025-02-09 135414](https://github.com/user-attachments/assets/b935cc43-ee7c-428f-8ba6-9f6b3df9f2e2)
+     
       ![Screenshot 2025-02-09 134429](https://github.com/user-attachments/assets/27e68f27-0cdd-4adf-97f1-c81802a99e4e)
+      ![Screenshot 2025-02-09 134429](https://github.com/user-attachments/assets/214e7f55-97ae-476f-9036-89f33c4d4023)
+
 
   Conclusion--
 The financial analysis of the dataset has revealed key insights into corporate performance across multiple industries. 
